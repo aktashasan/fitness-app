@@ -1,9 +1,6 @@
 
 # Fitness-App
 BMI hesaplayan bir mobil uygulamadır. boy ve kilo değerleri girdiğinizde sizin BMI değerini hesaplar.
- 
-
-
 
 ## Ekran Görüntüleri
 
